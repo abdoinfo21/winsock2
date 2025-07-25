@@ -1,0 +1,57 @@
+object Form1: TForm1
+  Left = 350
+  Height = 240
+  Top = 250
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '4.2.0.0'
+  OnClose = FormClose
+  object Button1: TButton
+    Left = 39
+    Height = 25
+    Top = 28
+    Width = 75
+    Caption = 'listen'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 9
+    Height = 25
+    Top = 199
+    Width = 75
+    Caption = 'send'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Left = 149
+    Height = 25
+    Top = 25
+    Width = 75
+    Caption = 'stop'
+    TabOrder = 2
+    OnClick = Button3Click
+  end
+  object Memo1: TMemo
+    Left = 9
+    Height = 130
+    Top = 62
+    Width = 303
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 3
+  end
+  object Edit1: TEdit
+    Left = 96
+    Height = 23
+    Top = 202
+    Width = 208
+    TabOrder = 4
+    Text = 'Hello From The Other Side'
+    OnKeyPress = Edit1KeyPress
+  end
+end

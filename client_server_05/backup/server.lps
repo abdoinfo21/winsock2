@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="server.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="21"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="server_u.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="60"/>
+        <CursorPos X="33" Y="69"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\laz_examples\package\sock_com.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="35" Y="14"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="128" Column="13" TopLine="97"/>
+      </Position1>
+      <Position2>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="125" Column="55" TopLine="107"/>
+      </Position2>
+      <Position3>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="109" TopLine="92"/>
+      </Position3>
+      <Position4>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="100" TopLine="81"/>
+      </Position4>
+      <Position5>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="125" Column="52" TopLine="103"/>
+      </Position5>
+      <Position6>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="128" Column="16" TopLine="109"/>
+      </Position6>
+      <Position7>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="125" Column="19" TopLine="109"/>
+      </Position7>
+      <Position8>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="109" Column="23" TopLine="94"/>
+      </Position8>
+      <Position9>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="100" TopLine="94"/>
+      </Position9>
+      <Position10>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="127" Column="28" TopLine="114"/>
+      </Position10>
+      <Position11>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="128" Column="28" TopLine="115"/>
+      </Position11>
+      <Position12>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="141" Column="3" TopLine="115"/>
+      </Position12>
+      <Position13>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="143" Column="5" TopLine="131"/>
+      </Position13>
+      <Position14>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="140" Column="18" TopLine="118"/>
+      </Position14>
+      <Position15>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="71" Column="17" TopLine="55"/>
+      </Position15>
+      <Position16>
+        <Filename Value="server_u.pas"/>
+        <Caret Line="69" Column="33" TopLine="60"/>
+      </Position16>
+      <Position17>
+        <Filename Value="server.lpr"/>
+        <Caret Line="21"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
